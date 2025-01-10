@@ -1,4 +1,13 @@
 ## Bem vindo ao perfil de PedroBRB
+### Olá, me chamo Pedro Borba.
+
+🖥️ sou um desenvolvedor Front-end
+📁 atualmente estou estudando Javascript
+💻 em busca do meu primeiro emprego!!!
+Ah, gosto de jogos, filmes, séries, animes e doguinhos(tenho um Golden).
+
+
+
 <div>
   <a href="https://github.com/PedroBRB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBRB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -11,8 +20,8 @@
 </div>
  
  <br>
- 
-  ### Para saber mais  sobre mim, me segue a gente nas redes abaixo!
+
+ ### Para saber mais sobre mim, me siga nas redes sociais!!!!
  
 <div> 
 
@@ -20,7 +29,7 @@
  
   <a href = "pedroborbacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  <a href="https://www.linkedin.com/in/pedro-brb/#:~:text=www.linkedin.com/in/pedro%2Dbrb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/dev-pedro-brb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
 </div>
