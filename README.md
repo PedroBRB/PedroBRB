@@ -40,7 +40,4 @@ Ah, gosto de jogos, filmes, séries, animes e doguinhos(tenho um Golden).
 
 
 
-
-
-
  ![snake gif](https://github.com/PedroBRB/PedroBRB/blob/output/github-contribution-grid-snake.gif)
