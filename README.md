@@ -30,11 +30,11 @@ Ah, gosto de jogos, filmes, séries, animes e doguinhos(tenho um Golden).
 <div> 
 
   <a href="https://instagram.com/pedroborba__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-  
+
   
   <a href="https://www.linkedin.com/in/dev-pedro-brb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
 </div>
 
+ ![snake gif](https://github.com/Pedro-BRB/Pedro-BRB/blob/output/github-contribution-grid-snake.gif)
