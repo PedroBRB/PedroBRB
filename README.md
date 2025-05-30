@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Front-end Developer<br>- I have been studying programming for 6 months<br>- Open to work<br>- Oh, I like games, movies, series, anime and doggos (I have a Golden).</p>
+<p align="left">- Front-end Developer<br>- I have been studying programming for 10 months<br>- Open to work<br>- Oh, I like games, movies, series, anime and doggos (I have a Golden).</p>
 
 ###
 
