@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">- Back-end Developer<br>- I have been studying programming for 11 months<br>- Open to work<br>- Oh, I like games, movies, series, anime and doggos (I have a Golden).</p>
+<p align="left"> I’m a Systems Analysis and Development student, passionate about technology and focused on becoming a Back-End Developer, with Java as my main programming language.
+
+I started my career in Physical Education, but found my true purpose in tech. This transition has given me discipline, resilience, and a constant drive to grow.
+
+I have experience with Javascript, Angular, REST APIs, PostgreSQL, and MySQL, but I’m now focused on the Back-End, studying Java, Spring Boot, OOP, and best architecture practices.
+
+I’m looking for my first internship in the field to apply my knowledge in real projects, learn from experienced professionals, and grow alongside the team. I’m driven by challenges, continuous learning, and teamwork. 🚀 </p>
 
 ###
 
