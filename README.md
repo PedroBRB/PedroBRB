@@ -1,14 +1,12 @@
-<h2 align="left">Pedro Borba Amaral Ferreira. </h2>
+<h2 align="left">Pedro Borba Amaral Ferreira </h2>
 
 ###
 
-<p align="left"> I’m a Systems Analysis and Development student, passionate about technology and focused on becoming a Back-End Developer, with Java as my main programming language.
+<p align="left"> I am a Back-end developer experienced in building RESTful APIs with Java and Spring Boot, focusing on security, scalability, and quality. My experience with Angular on the front-end has provided me with a broader full-stack perspective and enhanced my ability to integrate application layers.
 
-I started my career in Physical Education, but found my true purpose in tech. This transition has given me discipline, resilience, and a constant drive to grow.
+I am proficient in object-oriented programming, SOLID principles, version control with Git and GitHub, and working with both relational (MySQL) and non-relational (MongoDB) databases. I am also accustomed to agile methodologies such as Scrum and Kanban. On a daily basis, I implement unit testing to ensure code stability and reliability.
 
-I have experience with Javascript, Angular, REST APIs, PostgreSQL, and MySQL, but I’m now focused on the Back-End, studying Java, Spring Boot, OOP, and best architecture practices.
-
-I’m looking for my first internship in the field to apply my knowledge in real projects, learn from experienced professionals, and grow alongside the team. I’m driven by challenges, continuous learning, and teamwork. 🚀 </p>
+Currently, I am pursuing a degree in Systems Analysis and Development and am committed to continuous learning, eager to explore new technologies, share my knowledge, and contribute to efficient and scalable solutions. 🚀 </p>
 
 ###
 
