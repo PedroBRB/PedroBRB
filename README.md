@@ -1,4 +1,4 @@
-<h2 align="left">About me!!!</h2>
+<h2 align="left">Pedro Borba Amaral Ferreira. </h2>
 
 ###
 
